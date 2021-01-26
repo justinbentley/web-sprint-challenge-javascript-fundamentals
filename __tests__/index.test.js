@@ -122,7 +122,7 @@ describe('Instance of CuboidMaker', () => {
       cuboid = new functions.CuboidMaker({
         length: 4,
         width: 5, 
-        height:5,
+        height: 5,
       })
     })
     it('[1] initializes with length', () => {
